@@ -1,0 +1,361 @@
+	#container {
+		width: 1024px;
+		margin: 0 auto;
+		border-right: 1px solid #4f4f4f;
+		border-left: 1px solid #4f4f4f;
+		background: grey; }
+
+
+        body {
+           font-family: Verdana, sans-serif;
+           font-size: small;
+           background-color: peru; /*orange;*/ /* #CD853F peru */
+           margin: 0;
+           padding: 0; }
+
+
+        #header {
+		height: 775px;
+		width: 100%;
+		background: #FCF6CF; } /* Warm Summer */
+
+        #header2 {
+                height: 80px;
+                width: 100%;
+                background: #FCF6CF; } /* Warm Summer */
+
+        #nav {
+        width: 100%px;
+        float: center;
+        margin: 0 0 0 0;
+        padding: 0;
+        list-style: none;
+        background-color: #f2f2f2;
+        text-align: center;
+        border-bottom: 3px solid #ccc;
+        border-top: 3px solid #ccc; }
+
+        #nav li {
+        display: inline; }
+
+        #nav li a {
+        display:inline-block;
+        padding:10px;
+        text-decoration: none;
+        font-weight: bold;
+        color: #069;
+        border-bottom: 0px solid #cc0000;
+        border-top: 0px solid #ffff66;
+        border-left: 0px solid #cc0000;
+        border-right: 0px solid #ffff66; }
+
+        #nav li a:hover {
+        color: #c00;
+        background-color: #fff; }
+
+
+        #main {
+	  	background-color: #C1FFC1; /* darkseagreen1 */
+		width: 1014px;
+		padding: 5px;
+		float: left; }
+
+
+        h1 {
+           font-size: 200%;
+           text-align: center;
+           color: darkblue; }
+
+        #h1r {
+           font-size: 200%;
+           font-weight: bold;
+           text-align: left;
+           color: darkred; }
+
+        #h3 {
+           font-size: 160%;
+           font-weight: bold;
+           text-align: left;
+	   text-decoration: underline;
+           color: darkblue; }
+
+        h3 {
+		   font-size: 160%;
+           font-weight: bold;
+           text-align: center;
+           color: darkblue; }
+
+        h3-b {
+         font-size: 160%;
+           font-weight: bold;
+           text-align: left;
+           color: darkblue; }
+
+        #h3-r {
+           font-size: 140%;
+           font-weight: bold;
+           text-align: center;
+           color: darkred; }
+
+        #h3-b {
+           font-size: 140%;
+           font-weight: bold;
+           text-align: left;
+           color: darkblue; }
+
+
+        #h3-hc {
+           font-size: 120%;
+           font-weight: bold;
+           text-align: center;
+           color: darkred; }
+
+
+        h2 {
+           font-weight: bold;
+           text-align: center;
+           color: darkblue; }
+
+
+        #h2 {
+           font-weight: bold;
+           text-align: left;
+           color: darkblue; }
+
+        #h2r {
+	   font-size: 110%;
+           font-weight: bold;
+           text-align: left;
+           color: darkred; }
+
+        h5 {
+           font-style: italic;
+           color: brown; }
+
+
+        hr {
+           color: gold; }
+
+        #photos {
+           text-align: center; }
+
+        #photos2 {
+           text-align: left; }
+
+        #photos3 {
+	   float: left;
+	   margin: 3px;
+           text-align: left; }
+
+        #p1 {
+           font-weight: bold;
+           text-align: left; }
+
+        #p2 {
+           font-weight: bold;
+	   text-align: center; }
+
+	#p3 {
+	   font-weight: bold;
+	   text-align: left;
+	   color: darkred; }
+
+        #p3b {
+           font-size: 110%;
+           font-weight: bold;
+           text-align: left;
+           color: darkblue; }
+
+        #p3hol {
+           font-size: 140%;
+           font-weight: bold;
+           text-align: left;
+           color: darkred; }
+
+        #p4 {
+           font-weight: bold;
+           font-size: 110%;
+           text-align: center;
+           color: darkblue; }
+
+
+	#table-classes {
+	   margin: auto;
+	   background: lightblue; 
+	   width: 725px; 
+	   border-style: solid; 
+	   border-width: 2px; }
+
+        #table-fees {
+           margin: auto;
+           background: lightblue;
+           width: 600px;
+           border-style: solid;
+           border-width: 2px; }
+
+
+	table caption {
+	   font-size: 140%;
+	   font-weight: bold;
+	   text-align: center;
+	   border-style: solid;
+	   border-width: 2px;
+	   color: darkred; }
+
+        table #th1 {
+           font-size: 120%;
+           text-align: center;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: lightbrown; }
+
+        table #th1-cf {
+           font-size: 120%;
+           text-align: left;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: purple; }
+
+        table #th1-y {
+           font-size: 120%;
+           text-align: left;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: green; }
+
+        table #th1-be {
+           font-size: 120%;
+           text-align: left;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: blue; }
+
+        table #th1-ba {
+           font-size: 120%;
+           text-align: left;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: brown; }
+
+        table #th1-b1 {
+           font-size: 120%;
+           text-align: left;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: coral; }
+
+        table #th1-b2 {
+           font-size: 120%;
+           text-align: left;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: crimson; }
+
+        table #th1-aranka {
+           font-size: 120%;
+           text-align:left;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: purple; }
+
+        table #th2 {
+           padding: 20px;
+           font-size: 100%;
+           text-align: center;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: darkblue; }
+
+        table #th3 {
+           font-size: 110%;
+           text-align: center;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+	   padding: 20px;
+           color: black; }
+
+	table td {
+	   text-align: center;
+	   padding: 0px;
+	   font-weight: bold;
+	   font-family: Arial, Helvetica, sans-serif;
+	   color: #CD3333; } /* brown3 */
+
+        table #yin {
+           text-align: center;
+           padding: 5px;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: black; }
+
+        table #basic {
+           text-align: center;
+           padding: 5px;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: darkred; }
+
+        table #aranka {
+           text-align: center;
+           padding: 5px;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: purple; }
+
+        table #basic+ {
+           text-align: center;
+           padding: 5px;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: red; }             
+
+        table #int {
+           text-align: center;
+           padding: 5px;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: darkorange; }
+
+        table #adv {
+           text-align: center;
+           padding: 5px;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: #FF6600; } /* gold */            
+
+        table #bmix {
+           text-align: center;
+           padding: 5px;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: green; }             
+
+
+        table #td1 {
+           padding: 0px;
+           text-align: left;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: darkblue; } 
+
+        table #tdlane {
+           font-size: 140%;
+           padding: 0px;
+           text-align: center;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: darkorange; } /*  */
+
+        table #td2 {
+           font-size: 110%;
+           text-align: center;
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+           color: darkred; }
+
+	#footer {
+	   clear: both;
+	   width: 100%;
+	   height: 50px;
+	   background: #3b5998;
+		}
